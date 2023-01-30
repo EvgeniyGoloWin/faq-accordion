@@ -42,8 +42,8 @@ h1 {
 
 button {
     background: rgb(211, 216, 253);
-    color: rgb(10, 27, 184);
-    border: 2px solid rgb(10, 27, 184);
+    color: rgba(252, 1, 1, 0.91);
+    border: 2px solid rgba(252, 1, 1, 0.91);
     border-radius: 5px;
     font-size: 20px;
 }

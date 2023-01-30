@@ -55,7 +55,9 @@ const questions = [
         id: 3,
         title: "Best players",
         info:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui facere in labore maxime, assumenda iure sed tenetur alias omnis eveniet similique laborum, neque porro unde ducimus officiis animi vitae! Quidem."
+            "1. Kenny Dalglish \n" +
+            "2. Steven Gerrard \n" +
+            "3. Mohamed Salah \n"
     }
 ];
 
