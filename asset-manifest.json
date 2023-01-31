@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/faq-accordion/static/css/main.cce06b41.css",
-    "main.js": "/faq-accordion/static/js/main.59ad4ef3.js",
+    "main.css": "/faq-accordion/static/css/main.b78857e5.css",
+    "main.js": "/faq-accordion/static/js/main.3f4db64b.js",
     "static/media/cup EFA.jpg": "/faq-accordion/static/media/cup EFA.367082329e637cb69fb6.jpg",
     "static/media/Chemp leg.jpg": "/faq-accordion/static/media/Chemp leg.7e2878075ee268fe6c2a.jpg",
+    "static/media/Liverpool-Logo-1950.jpg": "/faq-accordion/static/media/Liverpool-Logo-1950.d7ff764a33a3242cb24a.jpg",
     "static/media/Salah.jpeg": "/faq-accordion/static/media/Salah.b35858b163f2b3dc7530.jpeg",
     "static/media/logo.jpg": "/faq-accordion/static/media/logo.7109f5f913865309b44b.jpg",
+    "static/media/Liverpool-Logo-1987-768x432.png": "/faq-accordion/static/media/Liverpool-Logo-1987-768x432.d3e77b13ccf225bc37dd.png",
     "static/media/dalg.jpeg": "/faq-accordion/static/media/dalg.911450a569b619617e2b.jpeg",
+    "static/media/Liverpool-Logo-1955-768x432.png": "/faq-accordion/static/media/Liverpool-Logo-1955-768x432.1d621dc82bef758ff1e8.png",
     "static/media/Gerrard.jpeg": "/faq-accordion/static/media/Gerrard.36bc346a83bdd2d4fd76.jpeg",
+    "static/media/Liverpool-Logo-1999-768x432.jpg": "/faq-accordion/static/media/Liverpool-Logo-1999-768x432.384502c525d78890b29b.jpg",
     "index.html": "/faq-accordion/index.html",
-    "main.cce06b41.css.map": "/faq-accordion/static/css/main.cce06b41.css.map",
-    "main.59ad4ef3.js.map": "/faq-accordion/static/js/main.59ad4ef3.js.map"
+    "main.b78857e5.css.map": "/faq-accordion/static/css/main.b78857e5.css.map",
+    "main.3f4db64b.js.map": "/faq-accordion/static/js/main.3f4db64b.js.map"
   },
   "entrypoints": [
-    "static/css/main.cce06b41.css",
-    "static/js/main.59ad4ef3.js"
+    "static/css/main.b78857e5.css",
+    "static/js/main.3f4db64b.js"
   ]
 }
