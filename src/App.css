@@ -3,6 +3,7 @@ html {
 }
 
 .logo {
+    margin: auto;
     width: 150px;
     height: 100px;
     display: flex;
@@ -17,6 +18,12 @@ html {
     padding: 10px 20px 20px;
     border-radius: 12px;
     margin: 0 auto;
+}
+
+.container_logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 h1 {
@@ -75,6 +82,12 @@ body
     overflow-x: hidden;
 }
 
+@media (max-width: 400px) {
+    .App {
+        width: 90%;
+    }
+}
+
 @media (max-width: 767px) {
 
     .App {
@@ -82,16 +95,25 @@ body
     }
 
     .logo {
-        width: 30%;
+        margin: auto;
+        width: 35%;
+        height: 30%;
         align-items: center;
     }
 
     h1 {
+        margin: auto;
         width: 90%;
     }
 
     .container {
-        width: 50%;
+        width: 80%;
+    }
+
+    .container_logo {
+        width: 55%;
+        margin: auto;
+        justify-content: center;
     }
 
     .image {
