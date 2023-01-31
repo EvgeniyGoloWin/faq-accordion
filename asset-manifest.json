@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/faq-accordion/static/css/main.cce06b41.css",
+    "main.js": "/faq-accordion/static/js/main.59ad4ef3.js",
+    "static/media/cup EFA.jpg": "/faq-accordion/static/media/cup EFA.367082329e637cb69fb6.jpg",
+    "static/media/Chemp leg.jpg": "/faq-accordion/static/media/Chemp leg.7e2878075ee268fe6c2a.jpg",
+    "static/media/Salah.jpeg": "/faq-accordion/static/media/Salah.b35858b163f2b3dc7530.jpeg",
+    "static/media/logo.jpg": "/faq-accordion/static/media/logo.7109f5f913865309b44b.jpg",
+    "static/media/dalg.jpeg": "/faq-accordion/static/media/dalg.911450a569b619617e2b.jpeg",
+    "static/media/Gerrard.jpeg": "/faq-accordion/static/media/Gerrard.36bc346a83bdd2d4fd76.jpeg",
+    "index.html": "/faq-accordion/index.html",
+    "main.cce06b41.css.map": "/faq-accordion/static/css/main.cce06b41.css.map",
+    "main.59ad4ef3.js.map": "/faq-accordion/static/js/main.59ad4ef3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce06b41.css",
+    "static/js/main.59ad4ef3.js"
+  ]
+}
