@@ -2,6 +2,9 @@ import Question from "./question";
 import './App.css';
 import Cup from '../src/assets/images/cup EFA.jpg'
 import Logo from '../src/assets/images/logo.jpg'
+import Dalglish from '../src/assets/images/dalg.jpeg'
+import Gerrard from '../src/assets/images/Gerrard.jpeg'
+import Salah from '../src/assets/images/Salah.jpeg'
 
 import React from "react";
 import Champions from "./assets/images/Chemp leg.jpg";
@@ -29,7 +32,7 @@ const questions = [
     {
         id: 1,
         title: "Liverpool is the most decorated club in England",
-        image: {Cup},
+        image: Cup,
         info:
             "League Titles\n" +
             "1900-01, 1905-06, 1921-22, 1922-23, 1946-47, 1963-64, " +
@@ -42,7 +45,7 @@ const questions = [
     {
         id: 2,
         title: "Team has won 6 Champions Leagues",
-        image: {Champions},
+        image: Champions,
         info:
             "European Cups\n" +
             "1976-77, 1977-78, 1980-81, 1983-84, 2004-05, 2018-19\n" +
@@ -54,6 +57,7 @@ const questions = [
     {
         id: 3,
         title: "Best players",
+        image: Dalglish,Gerrard,Salah,
         info:
             "1. Kenny Dalglish \n" +
             "2. Steven Gerrard \n" +

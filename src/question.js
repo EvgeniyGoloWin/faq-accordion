@@ -11,7 +11,12 @@ export default function Question({question}) {
                 <h4>{question.title}</h4>
                 <button onClick={()=> setOpen(!open)}>{open ? "-" : "+"}</button>
             </div>
-            {open && <p>{question.info}</p>
+            {open &&
+                <>
+                    {question.image && <img className='image' src={question.image} alt={'cup'}/>
+            }
+                <p>{question.info}</p>
+                </>
             }
         </section>
     );
